@@ -27,6 +27,8 @@ struct PlayMode : Mode {
 
 	//local copy of the game scene (so code can change it during gameplay):
 	Scene scene;
+	bool win = false;
+	Scene::Transform *target = nullptr;
 
 	//player info:
 	struct Player {

@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Maze
 
-Author: (TODO: your name)
+Author: David Zelong Fan
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: Navigate the maze and try to walk to your goal.
 
 Screen Shot:
 
@@ -10,9 +10,7 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
-
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Use WASD to walk and navigate the maze. Try to find you way to the green block.
 
 This game was built with [NEST](NEST.md).
 
